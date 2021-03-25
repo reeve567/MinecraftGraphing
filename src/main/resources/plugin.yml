@@ -1,0 +1,9 @@
+main: dev.reeve.graphing.Main
+name: Math
+version: 1.0
+commands:
+  setOrigin:
+  setSize:
+  setInterval:
+  remakePoints:
+  settings:
